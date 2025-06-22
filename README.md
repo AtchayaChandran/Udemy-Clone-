@@ -30,4 +30,4 @@ The goal of this project is to practice front-end skills by cloning a real-world
 
 ## 🌍 Live Demo
 
-[Live Website](https://your-username.github.io/udemy-clone)
+[Live Website](https://atchayachandran.github.io/Udemy-Clone-/)
