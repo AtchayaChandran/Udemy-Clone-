@@ -14,7 +14,7 @@ The **Udemy Clone** project focuses on recreating the structure of the Udemy hom
 
 * Responsive layout (desktop view)
 * Navigation bar and banner
-* Course card section with price, title, and ratings
+* Course card section with price, title, and ratings 
 * Footer with multiple columns
 * Clean and readable code
 
